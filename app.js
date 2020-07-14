@@ -1,5 +1,5 @@
-import bodyParser from "body-Parser";
-import cookieParser from "cookie-Parser";
+import bodyParser from "body-parser";
+import cookieParser from "cookie-parser";
 import express from "express";
 import globalRouter from "./routers/globalRouter";
 import helmet from "helmet";
